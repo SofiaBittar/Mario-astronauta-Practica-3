@@ -8,7 +8,7 @@ public class Astronaut : MonoBehaviour
     public float speed;
     public float saltoVelocity;
     public SueloChecker checker;
-    public float rayDistance = 0.90f;
+    public float rayDistance = 1.5f;
     
 
 
