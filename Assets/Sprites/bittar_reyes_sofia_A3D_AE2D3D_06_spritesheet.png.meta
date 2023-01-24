@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: b16fa5320d8e8f046a9c2f747f97e6fb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1085
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df6604f4e10054b98da82d90e3856f
+      internalID: 1888477248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1084
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c67f8a17fd53164b8e94121f24bf2af
+      internalID: -796472233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1084
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba6882dcae094408e516479fe695d5
+      internalID: -1250482521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1084
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a1d17b22e73449be8bef5464b96bc
+      internalID: 231314808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1084
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a257eb87b61c41bced35aa1bfbf24
+      internalID: -862529279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1084
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4646054575c9f4e99c77d06ae61b69
+      internalID: -1490018899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1085
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5ca5fc898872b4fb62c3517dc3fe03
+      internalID: 1704353453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1084
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd38b84c813ed42a38665a369cf548
+      internalID: -1875113948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1043
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd768a221c5351c43b964454d73418e1
+      internalID: 551946066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1043
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544b8e00dbccc584d861adbb75600596
+      internalID: 1807576026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1044
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aedf237a11f6943b0ea4b8cf9d99c0
+      internalID: -460062561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1044
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a64746cb0842d408bc9c7251865fdb
+      internalID: -1765716612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1003
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a40b706d92f26e409f0b2eb1cccb70f
+      internalID: 887883054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1003
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a3b0fcc756bb2439dc153c20870e8d
+      internalID: 38435063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 961
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb22deecfa17b049bff9fd734a69f24
+      internalID: 2077413262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 961
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e3aba63c644d4488c9c6d2823040b8
+      internalID: 273460553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 962
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fbd78140c513b40bdba82bf293dcd3
+      internalID: -56258483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 963
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d763c4a6a96d614418509b09eee4030d
+      internalID: -1827336768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 963
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94650fdff2236745a11e2770eac6cb5
+      internalID: -1456522139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a28b9da2a39e44b3102aad8f5caf2
+      internalID: 1640398053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_8: 551946066
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_13: 38435063
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_17: -1827336768
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_0: 1888477248
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_3: 231314808
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_15: 273460553
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_18: -1456522139
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_5: -1490018899
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_20: 1689035510
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_19: 1640398053
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_12: 887883054
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_7: -1875113948
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_16: -56258483
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_11: -1765716612
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_4: -862529279
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_9: 1807576026
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_10: -460062561
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_2: -1250482521
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_6: 1704353453
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_1: -796472233
+      bittar_reyes_sofia_A3D_AE2D3D_06_spritesheet_14: 2077413262
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
